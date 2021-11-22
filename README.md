@@ -1,16 +1,20 @@
-### Hi there 👋
+## Welcome to my GitHub profile 😃👋
 
-<!--
-**lodauria/lodauria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me 👨🏻‍💻
 
-Here are some ideas to get you started:
+I am **Lorenzo D’Auria**, born in **Trieste (Italy)** in **1997**. After the scientific high school qualification obtained in 2016, I have continued my studies at the **University of Trieste**. During my bachelor’s degree, I have learned the basics of engineering and during the third year, I have understood that **automation engineering** is the IT topic I am most interested in. Therefore for my thesis work, I have chosen to develop from scratch a self-balanced inverted pendulum using a reaction wheel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Following my passions, I have then moved to Rome to study AI and Robotics at **Sapienza University**. The experience of living on my own made me grow from a personal point of view, while the more practical approach found at Sapienza allowed me to refine other important skills such as teamwork, self-reliance, organization, and English as well. For my master thesis, I have decided to work on the development of an innovative safe navigation algorithm for UAVs obtaining very satisfactory results.
+
+I am currently figuring out what I want to do next, but for sure **robotics will be included**. I hope to be able to challenge myself in more and more interesting projects in the future exploiting my determination and curiosity in learning new things.
+
+### My most successful projects 🏆
+
+- [Audio Speed Up](https://github.com/lodauria/AudioSpeedUp)
+- [Lego car controlled with IR](https://github.com/lodauria/IRCar_Lego_Arduino)
+
+### Contacts 📫
+
+[**Website** 🌐](lodauria.github.io)
+
+[**LinkedIn** 👔](https://www.linkedin.com/in/lorenzodauria/)
