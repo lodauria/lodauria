@@ -15,6 +15,6 @@ I am currently figuring out what I want to do next, but for sure **robotics will
 
 ### Contacts 📫
 
-[**Website** 🌐](lodauria.github.io)
+[**Website** 🌐](https://lodauria.github.io)
 
 [**LinkedIn** 👔](https://www.linkedin.com/in/lorenzodauria/)
