@@ -6,7 +6,7 @@ I am **Lorenzo D’Auria**, born in **Trieste (Italy)** in **1997**. After the s
 
 Following my passions, I have then moved to Rome to study AI and Robotics at **Sapienza University**. The experience of living on my own made me grow from a personal point of view, while the more practical approach found at Sapienza allowed me to refine other important skills such as teamwork, self-reliance, organization, and English as well. For my master thesis, I have decided to work on the development of an innovative safe navigation algorithm for UAVs obtaining very satisfactory results.
 
-I am currently employed at **Alten Italia** as System Engineer. More in details, I am working as external consultant for **Leonardo** in Ronchi dei Legionari (GO) where my main task is developing flight simulation software using C++.
+I am currently employed at **Alten Italia** as System Engineer. More in details, I am working as external consultant for **Leonardo** in Ronchi dei Legionari (GO) where my main task is developing real-time flight simulation software using C++. My main working tools are Visual Studio, GitLab and Qt Framework.
 
 ### My favorite personal works 🏆
 
