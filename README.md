@@ -14,6 +14,7 @@ From January 2023 I am employed at **Fincantieri**, where I am part of the **Dig
 
 - [Audio Speed Up](https://github.com/lodauria/AudioSpeedUp)
 - [Lego car controlled with IR](https://github.com/lodauria/IRCar_Lego_Arduino)
+- [WiFi remote controlled car](https://github.com/lodauria/WiFi_RC_Car)
 
 ### Contacts 📫
 
